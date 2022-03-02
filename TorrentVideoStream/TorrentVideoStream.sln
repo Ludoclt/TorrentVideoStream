@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorrentVideoStream", "TorrentVideoStream.csproj", "{39823D71-E29A-4B7B-9E1A-7B48B4F25F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39823D71-E29A-4B7B-9E1A-7B48B4F25F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39823D71-E29A-4B7B-9E1A-7B48B4F25F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39823D71-E29A-4B7B-9E1A-7B48B4F25F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39823D71-E29A-4B7B-9E1A-7B48B4F25F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83409560-BB65-47E5-A50D-247CCEED9440}
+	EndGlobalSection
+EndGlobal
